@@ -2,12 +2,20 @@
 
 You can generate access Tokens using this small project.
 
-Install 
+## Installation
 
-sudo npm install
+```sudo npm install```
 
-Usage
+## Usage
 
-node app.js
+```node app.js```
 
-Answer question an finally generated token will be shown in the terminal.
+Answer the questions and finally generated token will be shown in the terminal.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
